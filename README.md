@@ -1,5 +1,3 @@
-# Welcome to my GitHub Profile!
-
 Hey there, I'm Shahar Luftig, a Senior Data Engineer / Backend developer from Israel.
 
 ## Tech Stack
