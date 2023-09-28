@@ -19,8 +19,6 @@ Hey there, I'm Shahar Luftig, a Senior Data Engineer / Backend developer from Is
   <img src="https://github-readme-stats.vercel.app/api?username=shaharluftig&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="shaharluftig" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaharluftig&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharluftig&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="shaharluftig" />
 </div>
