@@ -16,7 +16,7 @@ Hey there, I'm Shahar Luftig, a Senior Data Engineer / Backend developer from Is
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaharluftig&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="shaharluftig" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaharluftig&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="shaharluftig" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@ Hey there, I'm Shahar Luftig, a Senior Data Engineer / Backend developer from Is
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharluftig&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shaharluftig" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharluftig&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="shaharluftig" />
 </div>
 
 <div align="center">
