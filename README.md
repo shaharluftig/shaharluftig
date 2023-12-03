@@ -1,4 +1,4 @@
-Hey there, I'm Shahar Luftig, a Senior Data / Backend Engineer from Israel.
+Hey there, I'm Shahar Luftig, a Senior Data Engineer from Israel.
 
 ## Tech Stack
 
