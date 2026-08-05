@@ -2,7 +2,6 @@
 
 # Shahar Luftig
 
-**Senior Data Engineer**  
 Building AI agents, distributed systems, and developer infrastructure.
 
 [LinkedIn](https://www.linkedin.com/in/shaharlu)
